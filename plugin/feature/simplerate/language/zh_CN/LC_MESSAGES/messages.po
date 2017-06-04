@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-29 17:59+0700\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: zh_CN\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "Action"
+msgstr "行动"
+
+msgid "Add rate"
+msgstr "增加费率"
+
+msgid "Are you sure you want to delete rate ?"
+msgstr "确定删除费率 ?"
+
+msgid "Destination"
+msgstr "目标"
+
+msgid "Edit rate"
+msgstr "编辑费率"
+
+msgid "Fail to delete rate"
+msgstr "删除费率失败"
+
+msgid "Fail to save rate"
+msgstr "保存费率失败"
+
+msgid "Manage SMS rate"
+msgstr "管理 SMS 费率"
+
+msgid "No changes made!"
+msgstr "未做更改"
+
+msgid "Prefix"
+msgstr "前缀"
+
+msgid "Rate"
+msgstr "费率"
+
+msgid "Rate already exists"
+msgstr "费率已存在"
+
+msgid "Rate has been added"
+msgstr "费率已添加"
+
+msgid "Rate has been deleted"
+msgstr "费率已删除"
+
+msgid "Rate has been saved"
+msgstr "费率已保存"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "You must fill all fields"
+msgstr "你必须填满全部空白"
+
+msgid "destination"
+msgstr "目标"
+
+msgid "prefix"
+msgstr "前缀"

@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-03-19 17:59+0700\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.8.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_CN\n"
+
+msgid "Add sender ID"
+msgstr "添加数字码号"
+
+msgid "Approve sender ID"
+msgstr "通过数字码号"
+
+msgid "Are you sure you want to delete sender ID"
+msgstr "确定要删除数字码号吗"
+
+msgid "Click the status button to enable or disable status"
+msgstr "单击状态按钮启用或禁用状态"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Edit sender ID"
+msgstr "编辑数字码号"
+
+msgid "Fail to update due to invalid sender ID"
+msgstr "由于无效的数字码号未能更新"
+
+msgid "Last update"
+msgstr "上次更新"
+
+msgid "Manage sender ID"
+msgstr "管理数字码号"
+
+msgid "Only when the sender ID is approved"
+msgstr "只有当数字码号被批准"
+
+msgid "Sender ID"
+msgstr "数字码号"
+
+msgid "Sender ID description has been added"
+msgstr "数字码号描述已被添加"
+
+msgid "Sender ID description has been updated"
+msgstr "数字码号描述已更新"
+
+msgid "Sender ID has been added and waiting for approval"
+msgstr "数字码号已被添加并等待批准"
+
+msgid "Sender ID has been removed"
+msgstr "数字码号已被删除"
+
+msgid "Sender ID is not available"
+msgstr "数字码号不可用"
+
+msgid "Sender ID is now approved"
+msgstr "数字码号证现已批准"
+
+msgid "Sender ID is now disabled"
+msgstr "数字码号现在禁用"
+
+msgid "Set as default"
+msgstr "设为默认值"
+
+msgid "User"
+msgstr "用户"
+
+msgid "Username"
+msgstr "用户名"
+
+#, php-format
+msgid "Username %s with account ID %d has requested approval for sender ID %s"
+msgstr "帐户ID为 %s 的用户名 %d  已请求批准数字码号为 %s"

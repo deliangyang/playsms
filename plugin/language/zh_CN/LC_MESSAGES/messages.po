@@ -1,0 +1,3219 @@
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-11 22:14+0700\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: zh_CN\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "1 Day"
+msgstr "1天"
+
+msgid "1 Month"
+msgstr "1个月"
+
+msgid "1 Week"
+msgstr "1周"
+
+msgid "2 Days"
+msgstr "2天"
+
+msgid "2 Weeks"
+msgstr "2 周"
+
+msgid "6 Months"
+msgstr "6个月"
+
+msgid "ACL"
+msgstr "ACL策略"
+
+msgid "ACL DEFAULT will not restrict access to menus"
+msgstr "ACL策略默认不会限制访问菜单"
+
+msgid "ACL ID"
+msgstr "ACL策略ID"
+
+msgid "ACL been edited"
+msgstr "ACL策略已编辑"
+
+msgid "ACL has been deleted"
+msgstr "ACL策略已被删除"
+
+msgid "ACL name"
+msgstr "ACL策略名称"
+
+msgid "API ID"
+msgstr "API ID"
+
+msgid "API key"
+msgstr "API key"
+
+msgid "API password"
+msgstr "API password"
+
+msgid "API secret"
+msgstr "API Secret"
+
+msgid "API username"
+msgstr "API username"
+
+msgid "Access Control List"
+msgstr "ACL策略列表"
+
+msgid ""
+"Access to unknown domain mapped to this server IP address will be redirected to this website URL. This website URL should be the primary address for the "
+"service."
+msgstr "进入未知地址会重新定位到这个网站URL。这个网站URL应该是服务的主要地址"
+
+#, php-format
+msgid "Account %s is currently banned to use services"
+msgstr "账户 %s 目前被禁止使用的服务"
+
+msgid "Account SID"
+msgstr "账户SID"
+
+msgid "Account admin or currently logged in administrator cannot be banned"
+msgstr "账户管理员或当前登录的管理员不应该被禁止"
+
+msgid "Account admin or currently logged in administrator cannot be unbanned"
+msgstr "账户管理员或当前登录的管理员不能解禁"
+
+msgid "Account already exists"
+msgstr "账户已存在!"
+
+msgid "Account has been added and password has been emailed"
+msgstr "账户和密码已发送到邮箱"
+
+msgid "Account has been added but failed to send email"
+msgstr "账户已添加但无法发送电子邮件"
+
+msgid "Account has been banned"
+msgstr "用户被禁用！"
+
+msgid "Account has been removed"
+msgstr "账户已删除"
+
+msgid "Account has been unbanned"
+msgstr "账户已解禁"
+
+msgid "Account name is mandatory"
+msgstr "账户名称为必填项"
+
+msgid "Account registration is not available"
+msgstr "账户注册不可用"
+
+msgid "Account status"
+msgstr "账户状态"
+
+msgid "Account with this email already exists"
+msgstr "此电子邮件已被一账户使用"
+
+msgid "Account with this mobile already exists"
+msgstr "这个手机账户已经存在"
+
+msgid "Action"
+msgstr "操作"
+
+msgid "Active language"
+msgstr "启用的语言"
+
+msgid "Active themes"
+msgstr "启用的主题"
+
+msgid "Add"
+msgstr "添加"
+
+msgid "Add ACL"
+msgstr "添加ACL策略"
+
+msgid "Add SMS autoreply"
+msgstr "添加SMS自动答复"
+
+msgid "Add SMS autoreply scenario"
+msgstr "添加SMS自动答复方案"
+
+msgid "Add SMS board"
+msgstr "添加SMS板"
+
+msgid "Add SMS command"
+msgstr "添加短信命令"
+
+msgid "Add SMS custom"
+msgstr "添加短信自定义"
+
+msgid "Add SMS poll"
+msgstr "添加短信投票"
+
+msgid "Add SMS quiz"
+msgstr "添加短信测验"
+
+msgid "Add SMS schedule"
+msgstr "添加短信时间表"
+
+msgid "Add SMS subscribe"
+msgstr "添加短信订阅"
+
+msgid "Add SMSC"
+msgstr "添加SMSC"
+
+msgid "Add account"
+msgstr "添加账户"
+
+msgid "Add blocked IP addresses"
+msgstr "添加阻止的 IP 地址"
+
+msgid "Add blocked mobile numbers"
+msgstr "添加阻止的手机号码"
+
+msgid "Add catch-all"
+msgstr "添加全部勾选"
+
+msgid "Add choice to this poll"
+msgstr "选择添加这项调查"
+
+msgid "Add contact"
+msgstr "添加联系人"
+
+msgid "Add credit"
+msgstr "添加信用许可"
+
+msgid "Add credit to users"
+msgstr "添加至用户的信用许可"
+
+msgid "Add destination"
+msgstr "添加目标"
+
+msgid "Add group"
+msgstr "添加群組"
+
+msgid "Add group inbox"
+msgstr "添加群组的收件箱"
+
+msgid "Add member"
+msgstr "添加成员"
+
+msgid "Add message"
+msgstr "添加短信"
+
+msgid "Add message template"
+msgstr "添加短信模板"
+
+msgid "Add or reduce credit from manage credit menu"
+msgstr "从信用许可管理菜单中添加或减少信用许可"
+
+msgid "Add rate"
+msgstr "添加利率"
+
+msgid "Add route"
+msgstr "添加路由"
+
+msgid "Add sender ID"
+msgstr "添加 Numbers "
+
+msgid "Add subuser"
+msgstr "添加子账户"
+
+msgid "Additional URL parameter"
+msgstr "附加的 URL 参数"
+
+msgid "Address"
+msgstr "地址"
+
+msgid "Administrator"
+msgstr "管理员"
+
+msgid "Administrators"
+msgstr "管理"
+
+msgid "All"
+msgstr "全部"
+
+msgid "All feature messages"
+msgstr "所有特色功能短信"
+
+msgid "All inbox"
+msgstr "所有收件箱"
+
+msgid "All mandatory fields must be filled"
+msgstr "所有必填字段必须填写"
+
+msgid "All queues have been removed"
+msgstr "全部队列都已移除"
+
+msgid "All reports"
+msgstr "所有报告"
+
+msgid "All sent messages"
+msgstr "所有发送的短信"
+
+msgid "All users"
+msgstr "全部用户"
+
+msgid "Allow users to select SMS footer while on Send SMS page"
+msgstr "允许用户在短信发送页面选择签名"
+
+msgid "Allow users to select sender ID while on Send SMS page"
+msgstr "允许用户在SMS发送页面选择 Numbers "
+
+msgid "Already a member reply"
+msgstr "已有一个成员回复"
+
+msgid "Always add plus sign"
+msgstr "总是添加+号"
+
+msgid "Always choose to send as unicode"
+msgstr "始终选择发送为Unicode"
+
+msgid "Always remove plus sign"
+msgstr "总是去除+号"
+
+msgid "Amount"
+msgstr "总量"
+
+msgid "Annually"
+msgstr "每年"
+
+msgid "Answer"
+msgstr "回答"
+
+msgid "Anyone"
+msgstr "任何人"
+
+msgid "Application footer here. Go to main configuration or manage site to edit this footer."
+msgstr "应用的页脚在这里。在主配置或者管理页面编辑这个页脚。"
+
+msgid "Application options"
+msgstr "应用程序选项"
+
+msgid "Approve sender ID"
+msgstr "批准 Numbers "
+
+msgid "Are you sure ?"
+msgstr "是否确定？"
+
+msgid "Are you sure you want to ban account"
+msgstr "你确定要禁止账户"
+
+msgid "Are you sure you want to ban subuser"
+msgstr "您确定要禁止子账户"
+
+msgid "Are you sure you want to delete ACL ?"
+msgstr "确定删除ACL策略？"
+
+msgid "Are you sure you want to delete ALL queues"
+msgstr "你确定要删除全部队列"
+
+msgid "Are you sure you want to delete SMS autoreply ?"
+msgstr "你确定要删除的短信自动回复？"
+
+msgid "Are you sure you want to delete SMS board with all its messages ?"
+msgstr "你确定要删除的短信板及其全部短信？"
+
+msgid "Are you sure you want to delete SMS command ?"
+msgstr "你确定要删除短信指令？"
+
+msgid "Are you sure you want to delete SMS custom ?"
+msgstr "你确定要删除短信自定义？"
+
+msgid "Are you sure you want to delete SMS poll with all its choices and votes ?"
+msgstr "你确定要删除的短信投票，其全部的选择和投票？"
+
+msgid "Are you sure you want to delete SMS quiz with all its choices and answers ?"
+msgstr "你确定要删除的短信竞猜，其全部的选择和答案？"
+
+msgid "Are you sure you want to delete SMS schedule ?"
+msgstr "你确定要删除短信的时间表？"
+
+msgid "Are you sure you want to delete SMS subscribe ?"
+msgstr "你确定要删除的短信订阅？"
+
+msgid "Are you sure you want to delete choice ?"
+msgstr "你确定你要删除的选择？"
+
+msgid "Are you sure you want to delete queue"
+msgstr "你确定你要删除队列吗"
+
+msgid "Are you sure you want to delete rate ?"
+msgstr "你确定你要删除率吗?"
+
+msgid "Are you sure you want to delete sender ID"
+msgstr "你确定你要删除 Numbers 吗"
+
+msgid "Are you sure you want to delete subuser"
+msgstr "您确定要删除子账户"
+
+msgid "Are you sure you want to delete subuser ?"
+msgstr "您确定要删除子账户 ?"
+
+msgid "Are you sure you want to delete these items ?"
+msgstr "你确定要删除这些项目吗？"
+
+msgid "Are you sure you want to delete these transactions ?"
+msgstr "你确定要删除这些交易？"
+
+msgid "Are you sure you want to delete this SMS autoreply scenario ?"
+msgstr "你确定你要删除这个短信自动回复的场景吗?"
+
+msgid "Are you sure you want to delete this answer ?"
+msgstr "是否确定要删除此答案？"
+
+msgid "Are you sure you want to delete this group inbox ?"
+msgstr "你确定要删除该组的收件箱？"
+
+msgid "Are you sure you want to delete this member ?"
+msgstr "你确定你要删除这个成员吗?"
+
+msgid "Are you sure you want to delete this message?"
+msgstr "你确定要删除这条短信吗?"
+
+msgid "Are you sure you want to delete user"
+msgstr "你確定要刪除此用戶"
+
+msgid "Are you sure you want to delete user ?"
+msgstr "你確定要刪除此用戶？"
+
+msgid "Are you sure you want to remove this number from SMS schedule ?"
+msgstr "你确定你要从SMS时间表删除这个号码?"
+
+msgid "Are you sure you want to unban account"
+msgstr "您确定要取消禁止账户"
+
+msgid "Are you sure you want to unban subuser"
+msgstr "您确定要取消禁止子账户"
+
+msgid "Auth Token"
+msgstr "Auth Token"
+
+msgid "Author"
+msgstr "作者"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Ban"
+msgstr "禁止"
+
+msgid "Ban date/time"
+msgstr "禁止日期/时间"
+
+msgid "Banned users list"
+msgstr "禁止用户名单"
+
+msgid "Bearerbox hostname or IP"
+msgstr "Bearerbox主机名或IP"
+
+msgid "Billing"
+msgstr "计费"
+
+msgid "Blocked IP address"
+msgstr "阻止的IP地址"
+
+msgid "Blocked mobile"
+msgstr "阻止手机号码"
+
+msgid "Bulksms API URL"
+msgstr "Bulksms API URL"
+
+msgid "Bulksms is a bulk SMS provider"
+msgstr "Bulksms是一个批量短信提供商"
+
+msgid "Bulksms will push DLR and incoming SMS to your callback URL"
+msgstr "Bulksms将推动DLR和传入短信到您的Callback网址"
+
+msgid "Buy"
+msgstr "购买"
+
+msgid "Buy credit page"
+msgstr "购买信用许可页面"
+
+msgid "CSS URL"
+msgstr "CSS URL"
+
+msgid "CSV file format"
+msgstr "CSV文件格式"
+
+msgid "Callback Secret"
+msgstr "Callback Secret"
+
+msgid "Callback URL"
+msgstr "Callback URL"
+
+msgid "Callback URL authcode"
+msgstr "Callback URL authcode"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Cancel send from file"
+msgstr "取消从文件发送"
+
+msgid "Cannot change status when user have subusers"
+msgstr "当用户有子账户时不能改变状态"
+
+msgid "Cannot find PHP PEAR-DB"
+msgstr "无法找到PHP PEAR-DB"
+
+msgid "Catch-all"
+msgstr "勾选全部"
+
+msgid "Catch-all has been added"
+msgstr "勾选全部已添加"
+
+msgid "Catch-all has been deleted"
+msgstr "勾选全部已被删除"
+
+msgid "Catch-all list"
+msgstr "勾选全部列表"
+
+msgid "Changes have been made"
+msgstr "改变了"
+
+msgid "Check email sender"
+msgstr "检查电子邮件发送者"
+
+msgid "Check to enable receiving push messages from SMSSync app"
+msgstr "检查，以便从SMSSync应用程序接收推送短信"
+
+msgid "Choice already exists"
+msgstr "选择已经存在"
+
+msgid "Choice description"
+msgstr "选择描述"
+
+msgid "Choice has been added"
+msgstr "选择已被添加"
+
+msgid "Choice keyword"
+msgstr "选择关键字"
+
+msgid "City"
+msgstr "城市"
+
+msgid "Click the status button to enable or disable status"
+msgstr "点击状态来启用或者禁止显示状态"
+
+msgid "Clickatell API URL"
+msgstr "Clickatell API URL"
+
+msgid "Clickatell is a bulk SMS provider"
+msgstr "Clickate是一个批量短信提供商"
+
+msgid "Clickatell will push DLR and incoming SMS to your callback URL"
+msgstr "Clickate将推动DLR和传入短信到您的Callback网址"
+
+msgid "Comma separated"
+msgstr "逗号分隔"
+
+msgid "Comma separated for multiple entries"
+msgstr "逗号分隔为多个条目"
+
+msgid "Comma separated values for multiple IP addresses"
+msgstr "逗号分隔值多个IP地址"
+
+msgid "Comma separated values for multiple mobile numbers"
+msgstr "逗号分隔值的多个手机号码"
+
+msgid "Compose message"
+msgstr "发送短信"
+
+msgid "Configuration"
+msgstr "配置"
+
+msgid "Confirmation"
+msgstr "确认"
+
+msgid "Contact has been added"
+msgstr "联系人已添加"
+
+msgid "Contact has been edited"
+msgstr "联系已被编辑"
+
+msgid "Contacts have been imported"
+msgstr "联系人已导入"
+
+msgid "Content"
+msgstr "内容"
+
+msgid "Copy the message to user inbox when incoming SMS contains @username"
+msgstr "该短信复制到用户收件箱时，接收到的SMS包含@username"
+
+msgid "Core"
+msgstr "核心"
+
+msgid "Count"
+msgstr "计数"
+
+msgid "Country"
+msgstr "国家"
+
+msgid "Created"
+msgstr "创建"
+
+msgid "Credit"
+msgstr "信用许可"
+
+msgid "Credit has been added"
+msgstr "信用许可已添加"
+
+msgid "Credit has been reduced"
+msgstr "信用许可已经减少"
+
+msgid "Current IP address"
+msgstr "当前的 IP 地址："
+
+msgid "Current catchall"
+msgstr "当前勾选全部"
+
+msgid "Current members"
+msgstr "当前的成员"
+
+msgid "Currently logged in user is immune to deletion"
+msgstr "当前登录的用户是免疫缺失"
+
+msgid "DEFAULT"
+msgstr "默认"
+
+msgid "DLR mask"
+msgstr "DLR mask"
+
+msgid "Daily"
+msgstr "每天"
+
+msgid "Date"
+msgstr "日期"
+
+msgid "Date and time"
+msgstr "日期及时间"
+
+msgid "Date/Time"
+msgstr "日期/时间"
+
+msgid "Datetime"
+msgstr "年"
+
+msgid "Decide if this ACL is containing disallowed URLs rather than allowed URLs"
+msgstr "决定这是ACL策略不允许包含的网址，而不是允许的URL"
+
+msgid "Default"
+msgstr "默认"
+
+msgid "Default ACL upon registration"
+msgstr "默认的ACL策略在登记"
+
+msgid "Default SMS rate"
+msgstr "默认SMS费率"
+
+msgid "Default SMSC"
+msgstr "默认SMSC"
+
+msgid "Default account status upon registration"
+msgstr "在注册时默认账户状态"
+
+msgid "Default credit upon registration"
+msgstr "注册时的默认信用许可"
+
+msgid "Default default_queue directory"
+msgstr "默认default_queue目录"
+
+msgid "Default language"
+msgstr "默认语言"
+
+msgid "Default message footer"
+msgstr "默认短信签名"
+
+msgid "Default parent selected upon registration when the default account status on registration setting set to Subuser"
+msgstr "默认主选择在注册时登记的默认账户状态设置设为子账户"
+
+msgid "Default parent upon registration"
+msgstr "在注册时默认的主"
+
+msgid "Default prefix or country code"
+msgstr "默认前缀或者国家代码"
+
+msgid "Default prefix or country code to replace prefix 0 on destination number"
+msgstr "默认前缀或国家代码替换前缀为0的目标号码"
+
+msgid "Default sender ID"
+msgstr "默认 Numbers "
+
+msgid "Default settings"
+msgstr "默认设置"
+
+msgid "Default site configuration"
+msgstr "默认网站配置"
+
+msgid "Default timezone"
+msgstr "默认时区"
+
+msgid "Define a single character as keyword separator replacing default keyword separator a space"
+msgstr "定义一个字符作为空间关键字分隔符替换默认关键字分隔符"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Delete ALL queues"
+msgstr "删除全部队列"
+
+msgid "Delete catch-all"
+msgstr "删除勾选全部"
+
+msgid "Delete group inbox"
+msgstr "删除群组收件箱"
+
+msgid "Delete member"
+msgstr "删除成员"
+
+msgid "Delete user"
+msgstr "删除用户"
+
+msgid "Deleted"
+msgstr "己删除"
+
+msgid "Delivered"
+msgstr "递交"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Destination"
+msgstr "目标"
+
+msgid "Destination has been deleted"
+msgstr "目标已被删除"
+
+msgid "Destination has been edited"
+msgstr "目标已被编辑"
+
+msgid "Destination name"
+msgstr "目标名称"
+
+msgid "Destination number"
+msgstr "目标号码"
+
+msgid "Disable login as subuser"
+msgstr "禁用以子用户身份登录"
+
+msgid "Disallowed URLs"
+msgstr "不允许的网址"
+
+msgid "Doc"
+msgstr "文档"
+
+msgid "Domain"
+msgstr "域名"
+
+msgid "Download SMSSync app for Android from"
+msgstr "从中下载 SMSSync应用程式Android版"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Edit ACL"
+msgstr "编辑ACL策略"
+
+msgid "Edit SMS autoreply"
+msgstr "编辑短信自动回复"
+
+msgid "Edit SMS autoreply scenario"
+msgstr "编辑短信自动回复情况"
+
+msgid "Edit SMS board"
+msgstr "编辑短信板"
+
+msgid "Edit SMS command"
+msgstr "编辑短信命令"
+
+msgid "Edit SMS custom"
+msgstr "编辑短信自定义"
+
+msgid "Edit SMS poll"
+msgstr "编辑短信调查"
+
+msgid "Edit SMS poll choices"
+msgstr "编辑短信投票的选择"
+
+msgid "Edit SMS quiz"
+msgstr "添加短信测验"
+
+msgid "Edit SMS subscribe"
+msgstr "编辑短信订阅"
+
+msgid "Edit SMSC"
+msgstr "编辑SMSC"
+
+msgid "Edit contact"
+msgstr "编辑联系人"
+
+msgid "Edit destination"
+msgstr "编辑目标"
+
+msgid "Edit group"
+msgstr "编辑群组"
+
+msgid "Edit group inbox"
+msgstr "编辑群组收件箱"
+
+msgid "Edit message"
+msgstr "编辑短信"
+
+msgid "Edit message template"
+msgstr "编辑短信模板"
+
+msgid "Edit rate"
+msgstr "编辑费率"
+
+msgid "Edit route"
+msgstr "编辑路由"
+
+msgid "Edit schedule"
+msgstr "编辑预定的"
+
+msgid "Edit sender ID"
+msgstr "编辑 Numbers "
+
+msgid "Effective SMS sender ID"
+msgstr "有效的SMS Numbers "
+
+msgid "Eg: +0700 for Jakarta/Bangkok timezone"
+msgstr "例如：+0700，雅加达/曼谷时区"
+
+msgid "Email"
+msgstr "电子邮件"
+
+msgid "Email address is mandatory"
+msgstr "电子邮件地址是必填项"
+
+msgid "Email footer"
+msgstr "电子邮件页脚"
+
+msgid "Email protocol"
+msgstr "电子邮件协议"
+
+msgid "Email service"
+msgstr "电子邮件服务"
+
+msgid "Email to SMS PIN has been saved"
+msgstr "邮件至短信 PIN已保存"
+
+msgid "Email to SMS PIN has been saved but service is disabled"
+msgstr "邮件至短信 PIN已保存，但服务已禁用"
+
+msgid "Email to SMS address"
+msgstr "邮件至短信 地址"
+
+msgid "Email to SMS configuration has been saved and service disabled"
+msgstr "邮件至短信 配置已保存，服务被禁用"
+
+msgid "Email to SMS configuration has been saved and service enabled"
+msgstr "邮件至短信 配置已保存并启用服务"
+
+msgid "Empty callback URL to set default"
+msgstr "空的Callback URL设置默认"
+
+msgid "Empty default sender ID to allow users setting their own sender ID"
+msgstr "清空默认 Numbers ，以允许用户设置自己的 Numbers "
+
+msgid "Enable SMS Sync"
+msgstr "启用短信Sync"
+
+msgid "Enable credit unicode SMS as normal SMS"
+msgstr "允许Unicode SMS按照普通短信计数"
+
+msgid "Enable fetch new emails"
+msgstr "允许读取新的电子邮件"
+
+msgid "Enable forgot password"
+msgstr "启用忘记密码"
+
+msgid "Enable login brute force detection"
+msgstr "启用暴破解攻击力防御"
+
+msgid "Enable logo"
+msgstr "启用LOGO"
+
+msgid "Enable public registration"
+msgstr "启用公共注册"
+
+msgid "Enable webservices"
+msgstr "Enable webservices"
+
+msgid "Enhance privacy for subusers"
+msgstr "增强子账户的隐私"
+
+msgid "Entries in CSV file have been imported"
+msgstr "已导入CSV文件中的条目"
+
+msgid "Example"
+msgstr "示例"
+
+msgid "Example of SMS custom URL"
+msgstr "SMS自定义网址示例"
+
+msgid "Exclusive"
+msgstr "专属"
+
+msgid "Exec"
+msgstr "执行"
+
+msgid "Export"
+msgstr "输出"
+
+msgid "FATAL ERROR"
+msgstr "严重错误"
+
+msgid "Fail to add SMS autoreply"
+msgstr "添加SMS自动答复 失败"
+
+msgid "Fail to add SMS autoreply scenario"
+msgstr "增加短信自动回复情景失败"
+
+msgid "Fail to add SMS board"
+msgstr "增加短信板失败"
+
+msgid "Fail to add SMS command"
+msgstr "增加短信指令失败"
+
+msgid "Fail to add SMS custom"
+msgstr "添加自定义短信失败"
+
+msgid "Fail to add SMS poll"
+msgstr "删除短信投票选项失败"
+
+msgid "Fail to add SMS quiz"
+msgstr "添加短信测验失败"
+
+msgid "Fail to add SMS subscribe"
+msgstr "增加短信订阅"
+
+msgid "Fail to add catch-all"
+msgstr "添加全部勾选失败"
+
+msgid "Fail to add credit"
+msgstr "添加信用许可失败"
+
+msgid "Fail to add group inbox"
+msgstr "添加群组收件箱失败"
+
+msgid "Fail to add member"
+msgstr "添加成员失败"
+
+msgid "Fail to add message"
+msgstr "添加短信失败"
+
+msgid "Fail to add message template"
+msgstr "添加短信模板失败"
+
+msgid "Fail to add new ACL"
+msgstr "添加新的ACL策略失败"
+
+msgid "Fail to add new SMS schedule"
+msgstr "添加新的SMS时间表失败"
+
+msgid "Fail to add new SMSC"
+msgstr "添加新的SMSC失败"
+
+msgid "Fail to add new destination"
+msgstr "添加新的目标失败"
+
+msgid "Fail to add route"
+msgstr "添加路由失败"
+
+msgid "Fail to delete ACL"
+msgstr "ACL策略删除失败"
+
+msgid "Fail to delete SMS autoreply"
+msgstr "删除短信自动回复失败"
+
+msgid "Fail to delete SMS autoreply scenario"
+msgstr "删除短信自动回复情景失败"
+
+msgid "Fail to delete SMS command"
+msgstr "删除短信指令失败"
+
+msgid "Fail to delete SMS custom"
+msgstr "删除短信自定义失败"
+
+msgid "Fail to delete SMS poll choice"
+msgstr "删除短信投票选项失败"
+
+msgid "Fail to delete SMS schedule"
+msgstr "删除SMS时间表失败"
+
+msgid "Fail to delete catch-all"
+msgstr "删除勾选全部失败"
+
+msgid "Fail to delete destination"
+msgstr "删除描述失败"
+
+msgid "Fail to delete group"
+msgstr "删除群租失败"
+
+msgid "Fail to delete group inbox"
+msgstr "删除群租收件箱失败"
+
+msgid "Fail to delete member"
+msgstr "刪除成员失败"
+
+msgid "Fail to delete rate"
+msgstr "刪除费率失败"
+
+msgid "Fail to delete route"
+msgstr "刪除路由失败"
+
+msgid "Fail to disable group inbox"
+msgstr "停用群组收件箱失败"
+
+msgid "Fail to edit ACL"
+msgstr "ACL策略编辑失败"
+
+msgid "Fail to edit SMS autoreply scenario"
+msgstr "编辑短信自动回复情景失败"
+
+msgid "Fail to edit SMS board"
+msgstr "增加短信板失败"
+
+msgid "Fail to edit SMS quiz"
+msgstr "编辑短信测验失败"
+
+msgid "Fail to edit SMS schedule"
+msgstr "编辑SMS时间表失败"
+
+msgid "Fail to edit SMS subscribe"
+msgstr "编辑短信订阅失败"
+
+msgid "Fail to edit SMSC"
+msgstr "编辑SMSC失败"
+
+msgid "Fail to edit destination"
+msgstr "编辑描述失败"
+
+msgid "Fail to edit group inbox"
+msgstr "编辑群组收件箱失败"
+
+msgid "Fail to edit message"
+msgstr "编辑短信失败"
+
+msgid "Fail to edit message template"
+msgstr "编辑短信模板失败"
+
+msgid "Fail to enable group inbox"
+msgstr "停用群租收件箱失败"
+
+msgid "Fail to insert keyword"
+msgstr "插入关键字失败"
+
+msgid "Fail to recover password"
+msgstr "找回密码失败"
+
+msgid "Fail to reduce credit"
+msgstr "减少信用许可失败"
+
+msgid "Fail to register an account"
+msgstr "注册账户失败"
+
+msgid "Fail to remove SMSC"
+msgstr "移除SMSC失败"
+
+msgid "Fail to save SMS Sync configuration"
+msgstr "保存短信Sync配置失败"
+
+msgid "Fail to save SMS command"
+msgstr "保存短信指令失败"
+
+msgid "Fail to save SMS custom"
+msgstr "保存短信字定义失败"
+
+msgid "Fail to save configuration"
+msgstr "保存配置失败"
+
+msgid "Fail to save email to SMS PIN"
+msgstr "邮件至短信PIN 保存失败"
+
+msgid "Fail to save gateway module configurations"
+msgstr "保存网关模块配置失败"
+
+msgid "Fail to save preferences"
+msgstr "保存首选项失败"
+
+msgid "Fail to save rate"
+msgstr "保存费率失败"
+
+msgid "Fail to save route"
+msgstr "保存路由失败"
+
+msgid "Fail to save temporary password"
+msgstr "保存临时密码失败"
+
+msgid "Fail to send SMS"
+msgstr "发送短信失败"
+
+msgid "Fail to send email"
+msgstr "发送电子邮件失败"
+
+msgid "Fail to send message to all destinations"
+msgstr "向全部目标发送短信失败"
+
+msgid "Fail to simulate incoming SMS"
+msgstr "模拟传入短信失败"
+
+msgid "Fail to update SMS autoreply"
+msgstr "更新 SMS 自动答复失败"
+
+msgid "Fail to update due to invalid sender ID"
+msgstr "由于无效的 Numbers 而导致更新失败"
+
+msgid "Fail to upload CSV file"
+msgstr "上传CSV文件失败"
+
+msgid "Fail to upload CSV file for phonebook"
+msgstr "上传通讯录的CSV文件失败"
+
+msgid "Failed"
+msgstr "失败"
+
+msgid "Feature"
+msgstr "特色功能"
+
+msgid "Features"
+msgstr "特色功能"
+
+msgid "Fill authentication code to secure callback URL"
+msgstr "填写身份验证代码以确保Callback  URL"
+
+msgid "Fill the password field to change password"
+msgstr "填写密码字段来更改密码"
+
+msgid "Fill to change the API key"
+msgstr "填写更改API key"
+
+msgid "Fill to change the API password"
+msgstr "填写更改 APIpassword"
+
+msgid "Fill to change the API secret"
+msgstr "填写更改API secret"
+
+msgid "Fill to change the Auth Token"
+msgstr "填写更改Auth Token"
+
+msgid "Fill to change the password"
+msgstr "填写更改密码"
+
+msgid "Fill with zero to disable limit"
+msgstr "填写0来禁用限制"
+
+msgid "Flash message"
+msgstr "Flash message"
+
+msgid "Footer"
+msgstr "页脚"
+
+msgid "For example a short code"
+msgstr "例如一个短的代码"
+
+msgid "Format YYYY-MM-DD hh:mm"
+msgstr "格式 YYYY-MM-DD hh:mm"
+
+msgid "Forward"
+msgstr "转发"
+
+msgid "Forward all sandbox SMS to a URL"
+msgstr "将全部沙盒短信都转发到一个URL"
+
+msgid "Forward message to email"
+msgstr "转发短信到电子邮箱"
+
+msgid "Forward message to inbox"
+msgstr "转发短信到收件箱"
+
+msgid "Forward message to mobile"
+msgstr "转发短信到手机"
+
+msgid "Forward to email"
+msgstr "转发至电子邮箱"
+
+msgid "Forwarded email footer"
+msgstr "转发电子邮件页脚"
+
+msgid "Found invalid entries in uploaded file"
+msgstr "在上传的文件中找到无效条目"
+
+msgid "Found valid entries in uploaded file"
+msgstr "在上传的文件中找到有效的条目"
+
+msgid "From"
+msgstr "来自"
+
+msgid "Full name"
+msgstr "全名"
+
+msgid "Gateway"
+msgstr "网关"
+
+msgid "Gateway host"
+msgstr "网关主机"
+
+msgid "Gateway module configurations has been saved"
+msgstr "网关模块的配置已保存"
+
+msgid "Gateway name"
+msgstr "网关名称"
+
+msgid "Gateway port"
+msgstr "网关端口"
+
+msgid "Gateways"
+msgstr "网关"
+
+msgid "Generic send SMS URL"
+msgstr "通用发送短信URL"
+
+msgid "Go"
+msgstr "到"
+
+msgid "Go to main configuration or manage site to edit this page"
+msgstr "到主配置或者管理界面编辑这个页面"
+
+msgid "Go to manage site menu to edit this page"
+msgstr "到管理网站菜单来编辑此页"
+
+msgid "Grand total SMS"
+msgstr "Grand total SMS"
+
+msgid "Grand total senders"
+msgstr "Grand total senders"
+
+msgid "Graph output"
+msgstr "Graph output"
+
+msgid "Group"
+msgstr "群组"
+
+msgid "Group code"
+msgstr "群组代码"
+
+msgid "Group code already exists"
+msgstr "群组代码已存在"
+
+msgid "Group code has been added"
+msgstr "已添加群组代码"
+
+msgid "Group code may be used to broadcast SMS to this group"
+msgstr "群组代码可用于向此组广播SMS"
+
+msgid "Group has been edited"
+msgstr "群组已编辑"
+
+msgid "Group has been edited but unable to set broadcast from members or anyone"
+msgstr "集团已编辑，但无法从成员或任何人设置广播"
+
+msgid "Group inbox"
+msgstr "群组收件箱"
+
+msgid "Group inbox has been added"
+msgstr "群组收件箱已添加"
+
+msgid "Group inbox has been deleted"
+msgstr "群组收件箱已被删除"
+
+msgid "Group inbox has been disabled"
+msgstr "群组收件箱已被禁用"
+
+msgid "Group inbox has been edited"
+msgstr "群组收件箱已被编辑"
+
+msgid "Group inbox has been enabled"
+msgstr "群组的收件箱已被启用"
+
+msgid "Group name"
+msgstr "群组名称"
+
+msgid "HTML output"
+msgstr "HTML输出"
+
+msgid "HTTP Kannel admin host"
+msgstr "HTTP Kannel admin host"
+
+msgid "HTTP Kannel admin password"
+msgstr "HTTP Kannel admin password"
+
+msgid "HTTP Kannel admin port"
+msgstr "HTTP Kannel admin port"
+
+msgid "Home"
+msgstr "主页"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "IP address"
+msgstr "IP 地址"
+
+msgid "IP addresses"
+msgstr "IP 地址"
+
+msgid "IP addresses have been blocked"
+msgstr "IP地址已被阻止"
+
+msgid "IP addresses have been deleted"
+msgstr "IP地址已被删除"
+
+msgid "Idle"
+msgstr "空闲的"
+
+msgid "Import"
+msgstr "导入"
+
+msgid "Import above destination entries ?"
+msgstr "以上目标条目导入？"
+
+msgid "Import above phonebook entries ?"
+msgstr "导入通讯录上面的条目吗？"
+
+msgid "Import confirmation"
+msgstr "导入确认"
+
+msgid "Inbox"
+msgstr "收件箱"
+
+msgid "Incoming SMS route changes has been saved"
+msgstr "传入 SMS 路由更改已保存"
+
+msgid "Incoming SMS time is in local time"
+msgstr "收到的短信时间为当地时间"
+
+msgid "Infobip API URL"
+msgstr "Infobip API URL"
+
+msgid "Infobip is a bulk SMS provider"
+msgstr "Infobip是一个批量SMS提供商"
+
+msgid "Infobip will push DLR and incoming SMS to above URL"
+msgstr "twilio将推动DLR和传入短信到您的Callback网址"
+
+msgid "Information"
+msgstr "消息"
+
+msgid "Information page"
+msgstr "消息页面"
+
+msgid "Insert keyword"
+msgstr "插入关键字"
+
+msgid "Internal error please contact service provider"
+msgstr "网络错误请联系服务商"
+
+msgid "Invalid"
+msgstr "无效"
+
+msgid "Invalid CSV file"
+msgstr "无效的CSV文件"
+
+msgid "Invalid entries"
+msgstr "无效的输入"
+
+msgid "Invalid sender ID"
+msgstr " Numbers 无效"
+
+msgid "Invalid session ID"
+msgstr "无效的会话 ID"
+
+msgid "Invalid username or password"
+msgstr "用戶名或密码无效"
+
+msgid "JSON output"
+msgstr "JSON输出"
+
+msgid "Jasmin send SMS URL"
+msgstr "Jasmin send SMS URL"
+
+msgid "Jasmin will push DLR and incoming SMS to your callback URL"
+msgstr "Jasmin will push DLR and incoming SMS to your callback URL"
+
+msgid "Kannel admin host"
+msgstr "Kannel admin host"
+
+msgid "Kannel admin password"
+msgstr "Kannel admin password"
+
+msgid "Kannel admin port"
+msgstr "Kannel admin port"
+
+msgid "Kannel dlr-mask option"
+msgstr "Kannel dlr-mask option"
+
+msgid "Kannel specific"
+msgstr "Kannel status"
+
+msgid "Kannel status"
+msgstr "Kannel status"
+
+msgid "Keyword"
+msgstr "关键字"
+
+#, php-format
+msgid "Keyword %s is not available"
+msgstr "关键字 %s 不可用"
+
+msgid "Keyword separator"
+msgstr "关键字分隔符"
+
+msgid "Keywords"
+msgstr "关键词"
+
+msgid "Languages"
+msgstr "语言"
+
+msgid "Last update"
+msgstr "最后更新"
+
+msgid "Layout footer"
+msgstr "页脚布局"
+
+msgid "Leave a copy in sandbox SMS page"
+msgstr "在沙盒SMS页面中保留副本"
+
+msgid "Leaving a copy in sandbox SMS page may be useful for audit or reviews"
+msgstr "将副本保留在沙盒SMS页可用于审核或审查"
+
+msgid "List of accounts"
+msgstr "账户名单"
+
+msgid "List of administrators"
+msgstr "管理员名单"
+
+msgid "List of destinations"
+msgstr "目标清单"
+
+msgid "List of gateways and SMSCs"
+msgstr "网关和SMSCs列表"
+
+#, php-format
+msgid "List of messages from %s"
+msgstr "来自 %s 的邮件列表"
+
+msgid "List of my credit transactions"
+msgstr "信用许可交易清单"
+
+#, php-format
+msgid "List of queue %s"
+msgstr "队列 %s 列表"
+
+msgid "List of subusers"
+msgstr "子账户名单"
+
+msgid "List of transactions"
+msgstr "交易清单"
+
+msgid "List of users"
+msgstr "用户名单"
+
+msgid "Local number length"
+msgstr "本地号码长度"
+
+msgid "Local playnet password"
+msgstr "Local playnet password"
+
+msgid "Local playnet username"
+msgstr "Local playnet username"
+
+msgid "Logged in as"
+msgstr "登录为"
+
+msgid "Login"
+msgstr "登陆"
+
+msgid "Login as"
+msgstr "登录为"
+
+msgid "Login information"
+msgstr "登录信息"
+
+msgid "Logo URL"
+msgstr "Logo URL"
+
+msgid "Logo by default will be displayed at login, register and forgot password page"
+msgstr "默认情况下Logo将显示在登录，注册和忘记密码页面"
+
+msgid "Logout"
+msgstr "注销"
+
+msgid "Lowest credit limit to trigger notification"
+msgstr "触发通知的最低信用许可限额"
+
+msgid "MBOX output"
+msgstr "MBOX输出"
+
+msgid "Mail server address"
+msgstr "Mail服务器地址"
+
+msgid "Mail server port"
+msgstr "Mail服务器端口"
+
+msgid "Mailbox password"
+msgstr "邮箱密码"
+
+msgid "Mailbox username"
+msgstr "邮箱用户名"
+
+msgid "Main configuration"
+msgstr "主配置"
+
+msgid "Main configuration changes has been saved"
+msgstr "主配置更改已保存"
+
+msgid "Main website URL"
+msgstr "主站URL"
+
+msgid "Main website name"
+msgstr "主站名称"
+
+msgid "Make return as reply"
+msgstr "作为回复"
+
+msgid "Manage"
+msgstr "管理"
+
+msgid "Manage ACL"
+msgstr "管理ACL策略"
+
+msgid "Manage OpenVox"
+msgstr "管理OpenVox"
+
+msgid "Manage SMS rate"
+msgstr "管理SMS费率"
+
+msgid "Manage account"
+msgstr "管理账户"
+
+msgid "Manage autoreply"
+msgstr "管理自动答复"
+
+msgid "Manage blocked"
+msgstr "管理已阻止"
+
+msgid "Manage board"
+msgstr "管理板"
+
+msgid "Manage bulksms"
+msgstr "管理bulksms"
+
+msgid "Manage clickatell"
+msgstr "管理clickatell"
+
+msgid "Manage command"
+msgstr "管理命令"
+
+msgid "Manage credit"
+msgstr "管理信用许可"
+
+msgid "Manage custom"
+msgstr "管理自定义"
+
+msgid "Manage dev"
+msgstr "管理开发"
+
+msgid "Manage email to SMS"
+msgstr "管理 邮件至短信"
+
+msgid "Manage firewall"
+msgstr "管理防火墙"
+
+msgid "Manage gammu"
+msgstr "管理gammu"
+
+msgid "Manage gateway and SMSC"
+msgstr "管理网关和SMSC"
+
+msgid "Manage generic"
+msgstr "管理通用"
+
+msgid "Manage infobip"
+msgstr "管理infobip"
+
+msgid "Manage jasmin"
+msgstr "管理jasmin"
+
+msgid "Manage kannel"
+msgstr "管理kannel"
+
+msgid "Manage nexmo"
+msgstr "管理nexmo"
+
+msgid "Manage playnet"
+msgstr "管理playnet"
+
+msgid "Manage plugin"
+msgstr "管理插件"
+
+msgid "Manage poll"
+msgstr "管理投票"
+
+msgid "Manage quiz"
+msgstr "管理测验"
+
+msgid "Manage schedule"
+msgstr "管理预定"
+
+msgid "Manage sender ID"
+msgstr "管理 Numbers "
+
+msgid "Manage site"
+msgstr "管理网站"
+
+msgid "Manage smstools"
+msgstr "管理smstools"
+
+msgid "Manage stoplist"
+msgstr "管理stoplist"
+
+msgid "Manage subscribe"
+msgstr "管理订阅"
+
+msgid "Manage subuser"
+msgstr "管理子账户"
+
+msgid "Manage sync"
+msgstr "管理同步"
+
+msgid "Manage telerivet"
+msgstr "管理telerivet"
+
+msgid "Manage template"
+msgstr "管理模板"
+
+msgid "Manage twilio"
+msgstr "管理twilio"
+
+msgid "Manage uplink"
+msgstr "管理上行"
+
+msgid "Mandatory fields must not be empty"
+msgstr "必填内容不能为空"
+
+msgid "Master URL"
+msgstr "主网址"
+
+msgid "Match with all approved sender ID"
+msgstr "与全部已核准的 Numbers 匹配"
+
+msgid "Max. 16 numeric or 11 alphanumeric char. empty to disable"
+msgstr "最大16个数字或11个字母数字字符. 为空则禁用"
+
+msgid "Max. 16 numeric or 11 alphanumeric characters"
+msgstr "最大16个数字或11个字母数字字符"
+
+msgid "Max. 30 alphanumeric characters"
+msgstr "最大30个字母数字字符"
+
+msgid "Maximum SMS count"
+msgstr "最大SMS计数"
+
+msgid "Maximum username length"
+msgstr "最大用户名长度"
+
+msgid "Maximum username length must be a number between 4 to 100"
+msgstr "最长的用户名应该在4到100之间"
+
+msgid "Me only"
+msgstr "本人"
+
+msgid "Member has been added"
+msgstr "已添加成员"
+
+msgid "Member has been deleted"
+msgstr "会员已删除"
+
+msgid "Member join datetime"
+msgstr "会员加入日期"
+
+msgid "Member list"
+msgstr "成员名单"
+
+msgid "Member list for keyword"
+msgstr "会员名单关键字"
+
+msgid "Members"
+msgstr "成员"
+
+msgid "Message"
+msgstr "短信内容"
+
+#, php-format
+msgid "Message %s has been delivered to queue"
+msgstr "短信 %s 已递交到队列"
+
+msgid "Message ID"
+msgstr "短信ID"
+
+msgid "Message body"
+msgstr "短信正文"
+
+msgid "Message detail"
+msgstr "短信详情"
+
+msgid "Message footer"
+msgstr "签名"
+
+msgid "Message from"
+msgstr "短信来自"
+
+msgid "Message has been added"
+msgstr "短信已添加"
+
+msgid "Message has been deleted"
+msgstr "短信已删除"
+
+msgid "Message has been edited"
+msgstr "短信已编辑"
+
+msgid "Message received at"
+msgstr "收到短信"
+
+msgid "Message template"
+msgstr "短信模板"
+
+msgid "Message template content"
+msgstr "短信模板内容"
+
+msgid "Message template has been edited"
+msgstr "短信模板已被编辑"
+
+msgid "Message template has been saved"
+msgstr "短信模板已被保存"
+
+msgid "Message template name"
+msgstr "短信模板名称"
+
+msgid "Messages"
+msgstr "短信"
+
+msgid "Min length to detect missing country code"
+msgstr "检测缺少国家/地区代码的最小长度"
+
+msgid "Mobile"
+msgstr "手机"
+
+msgid "Mobile numbers"
+msgstr "手机号码"
+
+msgid "Mobile numbers have been blocked"
+msgstr "手机号码已被阻止"
+
+msgid "Mobile numbers have been deleted"
+msgstr "手机号码已被删除"
+
+msgid "Module sender ID"
+msgstr "模块 Numbers "
+
+msgid "Module timezone"
+msgstr "模块的时区"
+
+msgid "Monthly"
+msgstr "每月"
+
+msgid "Move"
+msgstr "移动"
+
+msgid "Move to"
+msgstr "移动到"
+
+msgid "Multi"
+msgstr "多种"
+
+msgid "Multiple IP addresses must be comma-separated"
+msgstr "多个IP地址必须以逗号分隔"
+
+msgid "Multiple entries separated by comma"
+msgstr "多个条目以逗号分隔"
+
+msgid "Multiple mobile numbers must be comma-separated"
+msgstr "多个手机号码必须以逗号分隔"
+
+msgid "My account"
+msgstr "我的账户"
+
+msgid "My credit transactions"
+msgstr "信用许可交易"
+
+msgid "My email to SMS"
+msgstr "邮件至短信"
+
+msgid "My feature messages"
+msgstr "特色功能类短信"
+
+msgid "My report"
+msgstr "个人报告"
+
+msgid "My sent messages"
+msgstr "发送的短信"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "＃NAME＃ will be replaced with the name listed in phonebook,＃NUM＃ will be replaced with the phone number listed in phonebook"
+msgstr "＃NAME＃ 名称变量，＃NUM＃电话号码变量"
+
+msgid "New ACL been added"
+msgstr "添加了新的ACL策略"
+
+msgid "New SMS schedule been added"
+msgstr "添加了新的短信预定计划"
+
+msgid "New SMSC has been added"
+msgstr "成功添加SMSC"
+
+msgid "New account registration"
+msgstr "新账户注册"
+
+msgid "New destination has been added"
+msgstr "已添加新的目标"
+
+msgid "New emails fetch interval"
+msgstr "新邮件提取间隔"
+
+msgid "New emails fetch interval must be higher than 10 seconds"
+msgstr "新邮件提取间隔必须大于10秒"
+
+msgid "Nexmo URL"
+msgstr "Nexmo URL"
+
+msgid "Nexmo is a bulk SMS provider"
+msgstr "Nexmo是批量SMS提供商"
+
+msgid "Nexmo will push DLR and incoming SMS to your callback URL"
+msgstr "Nexmo将推向DLR和传入到的SMS您Callback URL"
+
+msgid "No"
+msgstr "否"
+
+msgid "No changes has been made"
+msgstr "未做任何更改"
+
+msgid "No changes have been made"
+msgstr "未作任何更改"
+
+msgid "No changes made"
+msgstr "未做更改"
+
+msgid "No changes made!"
+msgstr "没有做出改变"
+
+msgid "No group"
+msgstr "没有群组"
+
+msgid "No route has been saved"
+msgstr "未保存路由"
+
+msgid "No trailing slash"
+msgstr "无尾部斜杠"
+
+msgid "No validate cert option"
+msgstr "无验证证书选项"
+
+msgid "None"
+msgstr "没有"
+
+msgid "Notes"
+msgstr "记录"
+
+msgid "Number"
+msgstr "数量"
+
+msgid "Number of sent SMS per hour limit"
+msgstr "每小时发送的短信数量限制"
+
+msgid "Number of votes"
+msgstr "票数"
+
+msgid "Offline"
+msgstr "离线"
+
+msgid "Once"
+msgstr "一次"
+
+msgid "Online"
+msgstr "在线"
+
+msgid "Only a few countries"
+msgstr "仅部分国家支持"
+
+msgid "Only when the sender ID is approved"
+msgstr "只有在 Numbers 已批准时"
+
+msgid "Operational"
+msgstr "操作"
+
+msgid "Options"
+msgstr "选项"
+
+msgid "PHP serialize output"
+msgstr "PHP序列化输出"
+
+msgid "PIN for email to SMS"
+msgstr "PIN for 邮件至短信"
+
+msgid "PIN is empty"
+msgstr "PIN是空的"
+
+msgid "Page content"
+msgstr "页面内容"
+
+msgid "Page title"
+msgstr "页面标题"
+
+msgid "Parent"
+msgstr "上级"
+
+msgid "Parent account"
+msgstr "主账户"
+
+msgid "Parent account is mandatory for subusers only. If no value is given then the subuser will be automatically assigned to user admin"
+msgstr "上级账户仅对子用户是强制性的。 如果没有给出值，则子用户将被自动分配给管理员用户"
+
+msgid "Pass these parameter to command exec field"
+msgstr "通过这些参数命令执行领域"
+
+msgid "Pass these parameters to custom URL field"
+msgstr "通过这些参数自定义链接域"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Password does not match"
+msgstr "密码不匹配"
+
+msgid "Password has been emailed"
+msgstr "密码已发送到邮箱"
+
+msgid "Password recovery"
+msgstr "找回密码"
+
+msgid "Password should be at least 4 characters"
+msgstr "密码应至少4个字符"
+
+msgid "Pending"
+msgstr "待处理"
+
+msgid "Personal information"
+msgstr "个人信息"
+
+msgid "Phone number"
+msgstr "电话号码"
+
+msgid "Phonebook"
+msgstr "通讯录"
+
+msgid "Please remove all subusers from this user to delete"
+msgstr "请从此用户中删除要删除的全部子用户"
+
+msgid "Please select"
+msgstr "请选择"
+
+msgid "Please select CSV file"
+msgstr "请选择CSV文件"
+
+msgid "Please select CSV file for phonebook entries"
+msgstr "请选择通讯录条目的CSV文件"
+
+msgid "Please select template"
+msgstr "请选择模板"
+
+msgid "Please type the displayed captcha phrase correctly"
+msgstr "请正确输入显示的验证码字符"
+
+msgid "Please use alphanumeric only and make it short"
+msgstr "请仅使用字母数字，并将其缩短"
+
+msgid "Please use uppercase and make it short"
+msgstr "请使用大写，并使其短一些"
+
+msgid "Post rules"
+msgstr "后规则"
+
+msgid "Pre rules"
+msgstr "预规则"
+
+msgid "Preferences"
+msgstr "参数选择"
+
+msgid "Preferences have been saved"
+msgstr "参数选择已保存"
+
+msgid "Preferences have been saved and password updated"
+msgstr "已保存参数选择，并更新密码"
+
+msgid "Preferences have been saved and webservices token updated"
+msgstr "已保存参数，并更新webservices token"
+
+msgid "Prefix"
+msgstr "前缀"
+
+msgid "Prefix or country code"
+msgstr "前缀或国家代码"
+
+msgid "Prefix with # for groups and @ for users"
+msgstr "#代表群组, @代表用户"
+
+msgid "Press submit button to add selected users to catch-all list"
+msgstr "按提交按钮，将选定的用户添加到全部勾选列表"
+
+msgid "Press submit button to add selected users to member list"
+msgstr "按提交按钮，将选定的用户添加到成员名单"
+
+msgid "Press submit button to remove selected catchall from catch-all list"
+msgstr "按提交按钮从全部列表中删除所选的统称"
+
+msgid "Press submit button to remove selected members from member list"
+msgstr "按提交按钮，从成员名单中删除选定的成员"
+
+msgid "Prevent duplicates"
+msgstr "防止重复"
+
+msgid "Project ID"
+msgstr "项目ID"
+
+msgid "Question"
+msgstr "问题"
+
+msgid "Queue Code"
+msgstr "队列代码"
+
+msgid "Queue directory"
+msgstr "队列描述"
+
+msgid "Queue has been removed"
+msgstr "队列已删除"
+
+msgid "RSS 0.91 output"
+msgstr "RSS 0.91 输出"
+
+msgid "RSS 1.0 output"
+msgstr "RSS 1.0 输出"
+
+msgid "RSS 2.0 output"
+msgstr "RSS 2.0 输出"
+
+msgid "RSS ATOM output"
+msgstr "RSS ATOM 输出"
+
+msgid "Rate"
+msgstr "费率"
+
+msgid "Rate already exists"
+msgstr "费率已存在"
+
+msgid "Rate has been added"
+msgstr "费率已添加"
+
+msgid "Rate has been deleted"
+msgstr "费率已删除"
+
+msgid "Rate has been saved"
+msgstr "费率已保存"
+
+msgid "Re-type password"
+msgstr "重新输入密码"
+
+msgid "Read and type the captcha phrase on verify captcha field. If you cannot read them please contact administrator."
+msgstr "在验证码字段中读取并输入验证码。 如果您无法阅读，请联系管理员。"
+
+msgid "Received answer list for keyword"
+msgstr "收到答复关键字列表"
+
+msgid "Receiver"
+msgstr "传入器"
+
+msgid "Receiver number"
+msgstr "传入器号码"
+
+msgid "Receiver number can be matched with default sender ID or with all approved sender ID"
+msgstr "与默认 Numbers 或全部核准的 Numbers ，可以匹配的传入器号码"
+
+msgid "Receiver number does not exist"
+msgstr "传入方号码不存在"
+
+msgid "Recover password"
+msgstr "找回密码"
+
+msgid "Recover password disabled"
+msgstr "禁用找回密码"
+
+msgid "Reduce"
+msgstr "减少"
+
+msgid "Reduce credit"
+msgstr "减少信用许可"
+
+msgid "Reduce credit from users"
+msgstr "从用户减少信用许可"
+
+msgid "Refresh"
+msgstr "刷新"
+
+msgid "Register an account"
+msgstr "注册账户"
+
+msgid "Registered"
+msgstr "已註册"
+
+msgid "Remote gateway will push DLR and incoming SMS to your callback URL"
+msgstr "远程网关将DLR和传入SMS推送到Callback URL"
+
+msgid "Remote is on"
+msgstr "远程端已打开"
+
+msgid "Remote playSMS URL"
+msgstr "远程playSMS URL"
+
+msgid "Remote playnet SMSC name"
+msgstr "远程playnet SMSC名称"
+
+msgid "Remote playnet password"
+msgstr "远程playnet密码"
+
+msgid "Remote playnet username"
+msgstr "远程playnet用户名"
+
+msgid "Renew webservices token"
+msgstr "Renew webservices token"
+
+msgid "Replace prefix 0 or padding local numbers"
+msgstr "替换前缀0或填充本地号码"
+
+msgid "Replace website title with logo"
+msgstr "将网站标题替换为logo"
+
+msgid "Reply"
+msgstr "回复"
+
+msgid "Reply message on correct"
+msgstr "回复信息正确"
+
+msgid "Reply message on incorrect"
+msgstr "回复信息错误"
+
+msgid "Reply message on invalid vote"
+msgstr "回复信息无效票"
+
+msgid "Reply message on out of vote option"
+msgstr "应答信息的投票选项"
+
+msgid "Reply message on valid vote"
+msgstr "对有效选票的回复信息"
+
+msgid "Report"
+msgstr "洞察力"
+
+msgid "Report all users"
+msgstr "所有用户报告"
+
+msgid "Report banned users"
+msgstr "禁止用户的报告"
+
+msgid "Report whose online"
+msgstr "在线用户的报告"
+
+msgid "Reports"
+msgstr "洞察力"
+
+msgid "Resend"
+msgstr "重新发送"
+
+msgid "Restart Kannel"
+msgstr "重启Kannel"
+
+msgid "Restrict sender to regular members or catch-all members only"
+msgstr "仅将发信人限制为普通成员或全部成员"
+
+msgid "Result graph"
+msgstr "结果图"
+
+msgid "Result table"
+msgstr "结果表"
+
+msgid "Route SMS outgoing"
+msgstr "路由短信传出"
+
+msgid "Route all sandbox SMS to one or more users"
+msgstr "将全部沙盒SMS都路由到一个或多个用户"
+
+msgid "Route all sandbox SMS to users"
+msgstr "将全部沙箱SMS发送给用户"
+
+msgid "Route all sandbox SMS with matched sender ID"
+msgstr "路由全部沙箱SMS与匹配的 Numbers "
+
+msgid "Route has been added"
+msgstr "路由已添加"
+
+msgid "Route has been deleted"
+msgstr "路由已删除"
+
+msgid "Route has been saved"
+msgstr "路由已保存"
+
+msgid "Route incoming SMS"
+msgstr "路由传入短信"
+
+msgid "Route outgoing SMS"
+msgstr "路由传出短信"
+
+msgid "Route to user inbox if receiver number matched with user sender ID"
+msgstr "如果接收方号码与用户 Numbers 匹配，则路由到用户收件箱"
+
+msgid "Routed SMSC"
+msgstr "路由SMSC"
+
+msgid "Row template"
+msgstr "行模板"
+
+msgid "Rules applied after incoming SMS processed"
+msgstr "应用之后接收到的 SMS 处理规则"
+
+msgid "Rules applied before incoming SMS processed"
+msgstr "应用之前接收到的 SMS 处理规则"
+
+msgid "SMS"
+msgstr "SMS"
+
+msgid "SMS Board"
+msgstr "短信板"
+
+msgid "SMS Sync configuration has been saved"
+msgstr "短信Sync配置已保存"
+
+msgid "SMS autoreply has been deleted"
+msgstr "短信自动回复已删除"
+
+msgid "SMS autoreply has been updated"
+msgstr "短信自动回复已更新"
+
+msgid "SMS autoreply keyword"
+msgstr "短信自动回复关键字"
+
+msgid "SMS autoreply keyword has been added"
+msgstr "短信自动回复关键字已添加"
+
+msgid "SMS autoreply scenario has been added"
+msgstr "短信自动回复情景已增加"
+
+msgid "SMS autoreply scenario has been deleted"
+msgstr "短信自动回复情景已删除"
+
+msgid "SMS autoreply scenario has been edited"
+msgstr "短信自动回复情景已编辑"
+
+msgid "SMS autoreply scenario parameter"
+msgstr "短信自动回复情景参数"
+
+msgid "SMS autoreply scenario reply"
+msgstr "短信自动回复方案回复"
+
+msgid "SMS board from"
+msgstr "短信板从"
+
+msgid "SMS board has been added"
+msgstr "短信板已增加"
+
+msgid "SMS board has been saved"
+msgstr "短信板已保存"
+
+msgid "SMS board keyword"
+msgstr "短信板关键字"
+
+msgid "SMS board reply message"
+msgstr "短信板回复消息"
+
+msgid "SMS board with all its messages has been deleted"
+msgstr "短信板和全部短信已删除"
+
+msgid "SMS command already exists, reserved or use by other feature"
+msgstr "短信指令已存在, 保留或其他特色功能的使用"
+
+msgid "SMS command exec"
+msgstr "短信指令执行"
+
+msgid "SMS command exec path"
+msgstr "短信指令执行路径"
+
+msgid "SMS command has been added"
+msgstr "短信指令已增加"
+
+msgid "SMS command has been deleted"
+msgstr "短信指令已删除"
+
+msgid "SMS command has been saved"
+msgstr "短信指令已保存"
+
+msgid "SMS command keyword"
+msgstr "短信指令关键字"
+
+msgid "SMS content is recommended to control within 200 (some telecom operators will intercept content), more than 70 words by 67 words a text message billing"
+msgstr "短信内容建议在200字以内（部分运营商会截取内容），超过70字按67个字一条短信计算"
+
+msgid "SMS custom URL"
+msgstr "短信字定义链接"
+
+msgid "SMS custom has been deleted"
+msgstr "短信自定义已删除"
+
+msgid "SMS custom has been saved"
+msgstr "短信自定义已保存"
+
+msgid "SMS custom keywords"
+msgstr "短信自定义关键字"
+
+#, php-format
+msgid "SMS custom with keyword %s has been added"
+msgstr "添加了关键字 %s 的短信自定义"
+
+msgid "SMS footer"
+msgstr "短信签名"
+
+msgid "SMS forward parameter"
+msgstr "短信转发参数"
+
+msgid "SMS has been sent to valid numbers in uploaded file"
+msgstr "短信已发送到上传文件中的有效号码"
+
+msgid "SMS is case-insensitive"
+msgstr "SMS不区分大小写"
+
+msgid "SMS keyword already exists, reserved or use by other feature"
+msgstr "短信关键字已存在, 保留或其他特色功能的使用"
+
+msgid "SMS messages list for keyword"
+msgstr "短信关键字列表"
+
+msgid "SMS poll access code"
+msgstr "短信循环接入代码"
+
+msgid "SMS poll access code used mainly by webservices"
+msgstr "主要由webservices使用的短信循环访问代码"
+
+msgid "SMS poll already exists, reserved or use by other feature"
+msgstr "短信投票已存在, 保留或其他特色功能的使用"
+
+msgid "SMS poll choice and all its voters has been deleted"
+msgstr "短信投票选项和它的全部选民已删除"
+
+msgid "SMS poll has been added"
+msgstr "短信投票已增加"
+
+msgid "SMS poll has been saved"
+msgstr "短信投票已增加"
+
+msgid "SMS poll keyword"
+msgstr "短信投票关键字"
+
+msgid "SMS poll status has been changed"
+msgstr "短信投票状态已改变"
+
+msgid "SMS poll title"
+msgstr "短信投票标题"
+
+msgid "SMS poll with all its messages has been deleted"
+msgstr "短信投票和它的全部信息已删除"
+
+msgid "SMS quiz already exists, reserved or use by other feature"
+msgstr "短信测验已存在, 保留或其他特色功能的使用"
+
+msgid "SMS quiz answer"
+msgstr "短信测验答案"
+
+msgid "SMS quiz answer messages have been deleted"
+msgstr "短信测验答案信息已删除"
+
+msgid "SMS quiz has been added"
+msgstr "短信测验已增加"
+
+msgid "SMS quiz has been saved"
+msgstr "短信测验已保存"
+
+msgid "SMS quiz keyword"
+msgstr "短信测验关键字"
+
+msgid "SMS quiz question"
+msgstr "短信测验问题"
+
+msgid "SMS quiz status has been changed"
+msgstr "短信测验状态已改变"
+
+msgid "SMS quiz with all its messages has been deleted"
+msgstr "短信测验和它的全部信息已删除"
+
+msgid "SMS schedule been saved"
+msgstr "SMS时间表已保存"
+
+msgid "SMS schedule has been deleted"
+msgstr "SMS时间表已被删除"
+
+msgid "SMS schedule has been disabled"
+msgstr "SMS时间表已被停用"
+
+msgid "SMS schedule has been enabled"
+msgstr "SMS时间表已被启用"
+
+msgid "SMS subscribe already exists, reserved or use by other feature"
+msgstr "短信订阅已存在, 保留或其他特色功能的使用"
+
+msgid "SMS subscribe has been added"
+msgstr "短信订阅已增加"
+
+msgid "SMS subscribe has been saved"
+msgstr "短信订阅已保存"
+
+msgid "SMS subscribe keyword"
+msgstr "短信订阅关键字"
+
+msgid "SMS subscribe parameter"
+msgstr "短信订阅回复"
+
+msgid "SMS subscribe reply"
+msgstr "短信订阅回复"
+
+msgid "SMS subscribe status has been changed"
+msgstr "短信订阅状态已改变"
+
+msgid "SMS subscribe with all its messages and members has been deleted"
+msgstr "短信订阅和它的全部信息和会员已删除"
+
+msgid "SMS unsubscribe parameter"
+msgstr "短信未订阅回复"
+
+msgid "SMS unsubscribe reply"
+msgstr "短信未订阅回复"
+
+msgid "SMSC"
+msgstr "SMSC"
+
+msgid "SMSC already exists"
+msgstr "SMSC已存在"
+
+msgid "SMSC has been edited"
+msgstr "SMSC已编辑"
+
+msgid "SMSC has been removed"
+msgstr "SMSC已移除"
+
+msgid "SMSC name"
+msgstr "SMSC名称"
+
+msgid "SMSCs"
+msgstr "SMSCs"
+
+msgid "Sandbox"
+msgstr "沙盒"
+
+msgid "Save"
+msgstr "收藏"
+
+msgid "Scan incoming SMS for #groupcode"
+msgstr "扫描 #groupcode 的传入短信"
+
+msgid "Scan incoming SMS for @username"
+msgstr "扫描 @username 的传入短信"
+
+msgid "Schedule"
+msgstr "发送时间"
+
+msgid "Schedule ID"
+msgstr "预定计划 id"
+
+msgid "Schedule messages"
+msgstr "预定的短信"
+
+msgid "Schedule name"
+msgstr "预定计划名称"
+
+msgid "Schedule rule"
+msgstr "预定计划规则"
+
+msgid "Scheduled"
+msgstr "预定计划"
+
+msgid "Scheduled message"
+msgstr "预定的短信"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Secret key"
+msgstr "Secret key"
+
+msgid "Secret key is used in SMSSync app"
+msgstr "Secret key用于SMSSync应用程序"
+
+msgid "Select"
+msgstr "选择"
+
+msgid "Select no if the incoming SMS time is in UTC"
+msgstr "如果传入SMS时间采用UTC，请选择否"
+
+msgid "Select username"
+msgstr "选择用户名"
+
+msgid "Select users"
+msgstr "选择用户"
+
+msgid "Selected catchall"
+msgstr "选择全部勾选"
+
+msgid "Selected contact has been deleted"
+msgstr "所选联系人已删除"
+
+msgid "Selected contact moved to new group"
+msgstr "所选联系人已移至新群组"
+
+msgid "Selected group has been deleted"
+msgstr "所选群组已被删除"
+
+msgid "Selected incoming message has been deleted"
+msgstr "所选传入短信已删除"
+
+msgid "Selected members"
+msgstr "选择成员"
+
+msgid "Selected message template has been deleted"
+msgstr "所选短信模板已被删除"
+
+msgid "Selected outgoing message has been deleted"
+msgstr "选定的外发短信已删除"
+
+msgid "Selected transactions has been deleted"
+msgstr "所选交易已删除"
+
+msgid "Selected users"
+msgstr "选定的用户"
+
+msgid "Send"
+msgstr "发送"
+
+msgid "Send SMS from remote using local username"
+msgstr "使用本地用户名从远程发送短信"
+
+msgid "Send SMS hostname or IP"
+msgstr "发送短信主机名或IP"
+
+msgid "Send SMS port"
+msgstr "发送短信端口"
+
+msgid "Send SMS to groups with found group codes in the incoming SMS"
+msgstr "向传入SMS中找到了群组代码的群组发送短信"
+
+msgid "Send SMS to valid entries"
+msgstr "发送短信到有效的条目"
+
+msgid "Send from file"
+msgstr "从文件发送"
+
+msgid "Send from file has been cancelled"
+msgstr "从文件发送已取消"
+
+#, php-format
+msgid "Send message cancelled due to empty queue %s"
+msgstr "发送短信由于空队列 %s 而被取消"
+
+msgid "Send message failed due to insufficient funds"
+msgstr "由于资金不足，发送短信失败"
+
+msgid "Send message failed due to unable to create queue"
+msgstr "由于无法创建队列，发送短信失败"
+
+#, php-format
+msgid "Send message failed due to unable to prepare queue %s"
+msgstr "由于无法准备队列 %s ，发送短信失败"
+
+#, php-format
+msgid "Send message to %s in queue %s has failed"
+msgstr "队列 %s 中的 %s 发送短信失败"
+
+msgid "Send this message to all members"
+msgstr "发送短信到全部成员"
+
+msgid "Send to"
+msgstr "收信人"
+
+msgid "Sender"
+msgstr "发信人"
+
+msgid "Sender ID"
+msgstr " Numbers "
+
+msgid "Sender ID description has been added"
+msgstr " Numbers 描述已添加"
+
+msgid "Sender ID description has been updated"
+msgstr " Numbers 描述已更新"
+
+msgid "Sender ID has been added and waiting for approval"
+msgstr " Numbers 已添加，正在等待批准"
+
+msgid "Sender ID has been removed"
+msgstr " Numbers 已删除"
+
+msgid "Sender ID is not available"
+msgstr " Numbers 不可用"
+
+msgid "Sender ID is now approved"
+msgstr " Numbers 现已批准"
+
+msgid "Sender ID is now disabled"
+msgstr " Numbers 现已禁用"
+
+msgid "Senders sent multi votes"
+msgstr "发信人发送多票"
+
+msgid "Senders sent multiple votes"
+msgstr "发信人发送多个投票"
+
+msgid "Senders sent once"
+msgstr "发信人发送一次"
+
+msgid "Sent"
+msgstr "发送"
+
+msgid "Separate by comma for multiple destinations"
+msgstr "以逗号分隔多个目标"
+
+msgid "Separate with comma for multiple items"
+msgstr "用逗号分隔多个项目"
+
+msgid "Service data"
+msgstr "服务数据"
+
+msgid "Service name"
+msgstr "服务名称"
+
+msgid "Set as default"
+msgstr "设为默认"
+
+msgid "Set credit value bigger than 0 to set credit lowest limit that will trigger notification"
+msgstr "设置信用许可值大于0，设置触发通知的信用许可最低限额"
+
+msgid "Settings"
+msgstr "管理"
+
+msgid "Share phonebook and allow broadcast"
+msgstr "共享通讯录并允许广播"
+
+msgid "Share this phonebook group and set permission for broadcasting SMS to this group from mobile phone"
+msgstr "共享此通讯录组，并设置从手机向此组广播短信的权限"
+
+msgid "Simulate incoming SMS"
+msgstr "模拟传入短信"
+
+msgid "Site configuration"
+msgstr "站点配置"
+
+msgid "Site configuration has been saved"
+msgstr "网站配置已保存"
+
+msgid "Spool folder"
+msgstr "脱机文件夹"
+
+msgid "State or Province"
+msgstr "州或省"
+
+msgid "Statistics"
+msgstr "统计"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Submit"
+msgstr "提交"
+
+msgid "Subscribe duration"
+msgstr "订阅时间"
+
+msgid "Subscription expired reply"
+msgstr "订阅回复已过期"
+
+msgid "Subuser"
+msgstr "子账户"
+
+msgid "Subuser ACL"
+msgstr "子账户ACL策略"
+
+msgid "Subusers"
+msgstr "子账户"
+
+msgid "Supplied SMSC"
+msgstr "供应SMSC"
+
+msgid "Support"
+msgstr "支持"
+
+msgid "Sync URL"
+msgstr "Sync URL"
+
+msgid "System error has occured"
+msgstr "发生系统性错误"
+
+msgid "Tags"
+msgstr "标签"
+
+msgid "Telerivet URL"
+msgstr "Telerivet URL"
+
+msgid "Template installation path"
+msgstr "模板安装路径"
+
+msgid "The domain is already configured by other user"
+msgstr "域名已由其他用户配置"
+
+msgid "Themes"
+msgstr "主题"
+
+msgid "This field is not mandatory"
+msgstr "此字段不是强制性的"
+
+msgid "This field is required"
+msgstr "这是必填栏"
+
+msgid "This is a test incoming SMS message"
+msgstr "这是测验传入SMS消息"
+
+msgid "This temporary password will be removed once you have logged in successfully"
+msgstr "当您成功登录后，此临时密码将被删除"
+
+msgid "Time"
+msgstr "时间"
+
+msgid "Timezone"
+msgstr "时区"
+
+msgid "Title"
+msgstr "标题"
+
+msgid "To"
+msgstr "至"
+
+msgid "Total"
+msgstr "总数"
+
+msgid "Total invalid SMS"
+msgstr "无效短信总数"
+
+msgid "Total multiple votes SMS"
+msgstr "多票投票总数"
+
+msgid "Total one time vote SMS"
+msgstr "一次投票短信总数"
+
+msgid "Total valid SMS"
+msgstr "有效短信总数"
+
+msgid "Transaction datetime"
+msgstr "交易日期"
+
+msgid "Try to disable SMS footer on master"
+msgstr "尝试在主控上禁用短信签名"
+
+msgid "Twilio URL"
+msgstr "Twilio URL"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "URL to playSMS, empty it to set it to base URL"
+msgstr "playSMS网址，空白将设置为基本网址"
+
+msgid "URLs"
+msgstr "URLs"
+
+msgid "Unable to add group"
+msgstr "无法添加群组"
+
+msgid "Unable to ban account"
+msgstr "无法禁止账户"
+
+msgid "Unable to ban subuser"
+msgstr "无法禁止子账户"
+
+msgid "Unable to delete group until the group is empty"
+msgstr "在群组为空之前，无法删除群组"
+
+msgid "Unable to delete other users"
+msgstr "无法删除其他用户"
+
+msgid "Unable to delete this user until all subusers under this user have been removed"
+msgstr "无法删除此用户，直到此用户下的全部子用户都已删除"
+
+msgid "Unable to login"
+msgstr "无法登录至"
+
+msgid "Unable to process subuser addition"
+msgstr "无法处理子用户添加"
+
+msgid "Unable to process user addition"
+msgstr "无法处理用户添加"
+
+msgid "Unable to save gateway module configurations"
+msgstr "无法保存网关模块配置"
+
+msgid "Unable to unban account"
+msgstr "无法解除禁止账户"
+
+msgid "Unable to unban subuser"
+msgstr "无法准许子账户"
+
+msgid "Unban"
+msgstr "准许"
+
+msgid "Unicode message"
+msgstr "Unicode message"
+
+msgid "Unknown error"
+msgstr "未知错误"
+
+msgid "Unknown error has occurred"
+msgstr "发生未知错误"
+
+msgid "Unknown format reply"
+msgstr "未知格式回复"
+
+msgid "Unlimited"
+msgstr "无限"
+
+msgid "Update status"
+msgstr "更新状态"
+
+msgid "Upload file"
+msgstr "上传文件"
+
+msgid "Uploaded file"
+msgstr "已上传文件"
+
+msgid "Use JSON format URL"
+msgstr "使用JSON格式的网址"
+
+msgid "Use SSL"
+msgstr "使用SSL"
+
+msgid "User"
+msgstr "用户"
+
+msgid "User ID"
+msgstr "用户ID"
+
+msgid "User agent"
+msgstr "用户代理"
+
+msgid "User configuration"
+msgstr "应用配置"
+
+msgid "User configuration has been saved"
+msgstr "应用配置已保存"
+
+msgid "User configuration has been saved and webservices token updated"
+msgstr "应用配置已保存，webservices token 已更新"
+
+msgid "User deletion unavailable"
+msgstr "用户删除不可用"
+
+msgid "User does not exist"
+msgstr "用户不存在"
+
+msgid "User is already on banned subusers list"
+msgstr "用户在已经被禁止的子用户名单中"
+
+msgid "User is already on banned users list"
+msgstr "用户在已经被禁止的用户名单中"
+
+msgid "User is immune to deletion"
+msgstr "用户免于删除"
+
+msgid "User is not on banned subusers list"
+msgstr "用户不在禁止子用户名单"
+
+msgid "User is not on banned users list"
+msgstr "用户不在禁止用户名单中"
+
+msgid "User preference"
+msgstr "用户首选项"
+
+msgid "Username"
+msgstr "用户名"
+
+#, php-format
+msgid "Username %s with account ID %d has reached lowest credit limit of %s"
+msgstr "账户ID为 %s 的用户名 %d 已达到最低信用许可额度 %s"
+
+#, php-format
+msgid "Username %s with account ID %d has requested approval for sender ID %s"
+msgstr "账户ID为 %s 的用户名 %d 已请求批准 Numbers 为 %s"
+
+#, php-format
+msgid "Username must be at least 3 characters and maximum %d characters"
+msgstr "用户名必须至少为3个字符和最多%d 个字符"
+
+msgid "Username or email"
+msgstr "用户名或邮箱"
+
+msgid "Users"
+msgstr "用户"
+
+msgid "Valid"
+msgstr "有效"
+
+msgid "Valid characters for username are alphabets, numbers, dot or dash"
+msgstr "用户名的有效字符是字母，数字，点或短下划线"
+
+msgid "Verify captcha"
+msgstr "验证码"
+
+msgid "Version"
+msgstr "版本"
+
+msgid "View"
+msgstr "查看"
+
+msgid "View SMS queue"
+msgstr "查看短信队列"
+
+msgid "View board"
+msgstr "查看板"
+
+msgid "View log"
+msgstr "查看日志"
+
+msgid "View members"
+msgstr "查看成员"
+
+msgid "View messages"
+msgstr "查看短信"
+
+msgid "View report"
+msgstr "查看报告"
+
+msgid "Vote option"
+msgstr "投票选项"
+
+msgid "Webservice token"
+msgstr "Webservice token"
+
+msgid "Webservice username"
+msgstr "Webservice 用户名"
+
+msgid "Webservices IP range"
+msgstr "Webservices IP range"
+
+msgid "Webservices links"
+msgstr "Webservices links"
+
+msgid "Webservices token"
+msgstr "Webservices token"
+
+msgid "Webservices username"
+msgstr "Webservices username"
+
+msgid "Website URL"
+msgstr "网站 URL"
+
+msgid "Website email"
+msgstr "网站邮箱"
+
+msgid "Website title"
+msgstr "网站标题"
+
+msgid "Weekly"
+msgstr "每周"
+
+msgid "Welcome information"
+msgstr "欢迎消息"
+
+msgid "Whose online"
+msgstr "谁在线"
+
+msgid "Wrong amount or user does not exist"
+msgstr "错误的金额或用户不存在"
+
+msgid "XML output"
+msgstr "XML输出"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "You have been logged out"
+msgstr "您已注销"
+
+msgid "You have no access to this page"
+msgstr "您无权访问此页面"
+
+msgid "You have no member"
+msgstr "您没有成员"
+
+#, php-format
+msgid "You have reached lowest credit limit of %s"
+msgstr "您已达到最低信用许可额度 %s"
+
+msgid "You must fill all field"
+msgstr "你必须填满全部空白"
+
+msgid "You must fill all fields"
+msgstr "你必须填满全部空白"
+
+msgid "You must fill all mandatory fields"
+msgstr "您必须填写全部必填字段"
+
+msgid "You must fill all required fields"
+msgstr "您必须填写全部必填字段"
+
+msgid "You must fill mandatory fields"
+msgstr "您必须填写必填字段"
+
+msgid "You must fill required fields"
+msgstr "您必须填写必填字段"
+
+msgid "You must select receiver and your message should not be empty"
+msgstr "您必须选择收信人，并且您的短信内容应不为空"
+
+msgid "You or someone else have requested a password recovery"
+msgstr "您或其他人请求了密码恢复"
+
+msgid "Your DLR URL is"
+msgstr "您的DLR URL为"
+
+msgid "Your SMS has been delivered to queue"
+msgstr "您的短信已递交到队列"
+
+msgid "Your callback URL is"
+msgstr "你的Callback  URL 是"
+
+msgid "Your callback URL should be accessible from Bulksms"
+msgstr "您的Callback  URL 应该可以从Bulksms访问"
+
+msgid "Your callback URL should be accessible from Clickatell"
+msgstr "您的Callback  URL 应该可以从Bulksms访问"
+
+msgid "Your callback URL should be accessible from Infobip"
+msgstr "您的Callback  URL 应该可以从Infobip访问"
+
+msgid "Your callback URL should be accessible from Jasmin"
+msgstr "您的Callback  URL 应该可以从Jasmin访问"
+
+msgid "Your callback URL should be accessible from Nexmo"
+msgstr "您的Callback  URL 应该可以从Nexmo访问"
+
+msgid "Your callback URL should be accessible from OpenVox"
+msgstr "您的Callback  URL 应该可以从OpenVox访问"
+
+msgid "Your callback URL should be accessible from remote gateway"
+msgstr "您的Callback  URL 应该可以从远程网关访问"
+
+msgid "Your callback URL should be accessible from twilio"
+msgstr "您的Callback  URL 应该可以从twilio访问"
+
+msgid "Your choice"
+msgstr "你的选择"
+
+msgid "Your credit"
+msgstr "您的信用许可"
+
+msgid "Your current callback URL authcode is"
+msgstr "您目前的Callback  URL authcode为"
+
+msgid "Your current callback URL is"
+msgstr "您目前的Callback  URL 为"
+
+msgid "Your email format is invalid"
+msgstr "您的电子邮件格式无效"
+
+msgid "Your message has been delivered to queue"
+msgstr "您的短信已递交到队列中"
+
+msgid "Your message has been delivered to some of the destinations"
+msgstr "您的短信已递交到部分目标"
+
+msgid "Your mobile format is invalid"
+msgstr "您的手机号码格式无效"
+
+#, php-format
+msgid "Your subuser with username %s and account ID %d has reached lowest credit limit of %s"
+msgstr "您的用户名 %s 和账户 id 为 %d 的 子账户已达到最低信用许可额度的 %s"
+
+msgid "Zipcode"
+msgstr "邮政编码"
+
+msgid "amount"
+msgstr "数量"
+
+msgid "blocked"
+msgstr "阻止"
+
+msgid "chars"
+msgstr "字符"
+
+msgid "code"
+msgstr "Code"
+
+msgid "correct"
+msgstr "正确"
+
+msgid "cost"
+msgstr "花费"
+
+msgid "count"
+msgstr "计数"
+
+msgid "create an account to send SMS"
+msgstr "创建一个账户来发送短信"
+
+msgid "destination"
+msgstr "目标"
+
+msgid "destination number, message"
+msgstr "目标号码，短信"
+
+msgid "destination number, message, username"
+msgstr "目标号码，短信，用户名"
+
+msgid "domain"
+msgstr "域名"
+
+msgid "email"
+msgstr "电子邮件"
+
+msgid "failed"
+msgstr "失败"
+
+msgid "for subuser only"
+msgstr "仅适用于子用户"
+
+msgid "format"
+msgstr "格式"
+
+msgid "free credits are available for testing purposes"
+msgstr "免费信用许可可用于测验目的"
+
+msgid "group"
+msgstr "群组"
+
+msgid "incorrect"
+msgstr "不正确"
+
+msgid "invalid entries"
+msgstr "无效的项目"
+
+msgid "keyword"
+msgstr "关键字"
+
+msgid "mobile"
+msgstr "手机号码"
+
+msgid "multiple times"
+msgstr "多次"
+
+msgid "no"
+msgstr "no"
+
+msgid "of"
+msgstr "of"
+
+msgid "on"
+msgstr "on"
+
+msgid "one time"
+msgstr "一次"
+
+msgid "one time every 24 hours"
+msgstr "每24小時一次"
+
+msgid "one time every month"
+msgstr "每月一次"
+
+msgid "one time every week"
+msgstr "每周一次"
+
+msgid "playSMS daemon is NOT running"
+msgstr "playSMS守护程序没有运行"
+
+msgid "playSMS daemon is running"
+msgstr "playSMS守护程序正在运行"
+
+msgid "playSMS daemon status"
+msgstr "playSMS进程的状态"
+
+msgid "playSMS web URL"
+msgstr "playSMS web URL"
+
+msgid "prefix"
+msgstr "前缀"
+
+msgid "queued"
+msgstr "排队"
+
+msgid "rate"
+msgstr "费率"
+
+msgid "return"
+msgstr "返回"
+
+msgid "title"
+msgstr "标题"
+
+msgid "twilio is a bulk SMS provider"
+msgstr "twilio是一个批量SMS提供商"
+
+msgid "twilio will push DLR and incoming SMS to your callback URL"
+msgstr "twilio将推动DLR和传入短信到您的Callback网址"
+
+msgid "user"
+msgstr "用户"
+
+msgid "username"
+msgstr "用户名"
+
+msgid "valid entries"
+msgstr "有效条目"
+
+#, php-format
+msgid "view all %d"
+msgstr "查看全部 %d"
+
+msgid "will be replaced by SMS incoming date/time"
+msgstr "将SMS传入的日期/时间替换"
+
+msgid "will be replaced by SMS raw message"
+msgstr "将短信的原始短信替换"
+
+msgid "will be replaced by actual receiver number"
+msgstr "将接收号码替换"
+
+msgid "will be replaced by command keyword"
+msgstr "将命令关键字替换"
+
+msgid "will be replaced by command parameter passed to server from SMS"
+msgstr "将从SMS传递到服务器的命令参数替换"
+
+msgid "will be replaced by custom keyword"
+msgstr "将自定义的关键字替换"
+
+msgid "will be replaced by custom parameter passed to server from SMS"
+msgstr "将从SMS传递到服务器的自定义参数替换"
+
+msgid "will be replaced by receiver number"
+msgstr "将接收号码替换"
+
+msgid "will be replaced by sender number"
+msgstr "将发信人号码替换"
+
+msgid "will be replaced by service name"
+msgstr "将服务名称替换"
+
+msgid "will be replaced with the name listed in phonebook"
+msgstr "将通讯录中列出的名称替换"
+
+msgid "will be replaced with the phone number listed in phonebook"
+msgstr "将通讯录中列出的电话号码替换"
+
+msgid "yes"
+msgstr "是"
